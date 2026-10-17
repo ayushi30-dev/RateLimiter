@@ -1,4 +1,5 @@
 # RateLimiter - Steps for testing
+TOKEN-BUCKET ALGORITHM
 1.First run the springboot application using the command
 mvn spring-boot:run
 
